@@ -1,4 +1,4 @@
-📌 How It Works
+# 📌 How It Works
 1️⃣ User Input: The user asks a question.
 2️⃣ Website Scraping: The chatbot extracts text from a given website.
 3️⃣ Embedding Generation: The text is converted into numerical representations using Sentence Transformers.
